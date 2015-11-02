@@ -1,0 +1,11 @@
+#reporter of code coverage#
+/coverage
+
+#npm pakage#
+/node_modules
+
+
+
+#IDE file
+.idea/
+.DS_Store
